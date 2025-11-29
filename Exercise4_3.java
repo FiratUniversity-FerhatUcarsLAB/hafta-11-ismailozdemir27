@@ -22,3 +22,22 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+
+
+STACK DİYAGRAMI
+------------------------------
+| ping()                     |
+| (yerel değişken yok)       |
+------------------------------
+| baffle()                   |
+| (yerel değişken yok)       |
+------------------------------
+| zoop()                     |
+| (yerel değişken yok)       |
+------------------------------
+| main(String[] args)        |
+------------------------------
+main → zoop → baffle → ping
+
+TAM ÇIKTI
+No, I  wug. You wugga  wug.I  wug.
